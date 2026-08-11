@@ -2,115 +2,113 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Yushan Chen
+  given: Yushan
+  family: Chen
+  alternate: ''  # Example: 陈雨杉
+  pronunciation: ''
+  pronouns: she/her
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🌱"
+role: PhD candidate
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Yushan Chen is a PhD student in Environmental Engineering at the Georgia
+  Institute of Technology, working in [Prof. Yongsheng Chen's group](https://newcenter.ce.gatech.edu/about/dr-yongsheng-chen/). Her research
+  applies machine learning to the discovery and design of sustainable materials —
+  including ionic liquids for CO2 capture — bridging computational chemistry and
+  environmental sustainability.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Georgia Institute of Technology
+    url: https://newcenter.ce.gatech.edu/about/dr-yongsheng-chen/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:ychen3338@gatech.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/Yushan-Chen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/feed/
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning
+  - CO2 Capture
+  - Ionic Liquids
+  - Molecular Design & Simulation
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
+  - degree: PhD in Environmental Engineering
+    institution: Georgia Institute of Technology
+    start: 2022-09-01
+    summary: |
+      Expected June 2026. Advisor: Prof. Yongsheng Chen. Machine learning–driven
+      discovery of sustainable ionic liquids for CO2 capture.
+  - degree: MSc in Environmental Engineering
+    institution: Cornell University
+    start: 2020-12-01
+    end: 2022-06-30
+  - degree: B.Eng in Environmental Engineering
+    institution: Shanxi University
     start: 2015-09-01
     end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
 
-experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+experience: []
 
 skills:
-  - name: Technical Skills
+  - name: Programming
     items:
       - label: Python
         level: 5
+      - label: MATLAB
+        level: 4
+      - label: C++
+        level: 3
+  - name: Computational Methods
+    items:
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: Molecular Dynamics (MD) Simulation
         level: 4
-  - name: Research & Communication
+  - name: Laboratory Instruments
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: SEM / TEM
         level: 4
-      - label: Grant Proposals
+      - label: IC / ICP-AES
+        level: 4
+      - label: GC-MS / HPLC
+        level: 4
+  - name: Software
+    items:
+      - label: AutoCAD
+        level: 4
+      - label: OriginLab
+        level: 4
+      - label: SPSS
+        level: 3
+      - label: Microsoft Office
         level: 4
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Excellent Student Award
+    awarder: Shanxi University
+    date: "2017"
     icon: hero/trophy
+  - title: Student Leadership Award
+    awarder: Shanxi University
+    date: "2016"
+    icon: hero/trophy
+  - title: Scholarship Prize
+    awarder: Shanxi University
+    date: "2017"
+    summary: Awarded 2016–2017 and 2015–2016.
+    icon: hero/academic-cap
