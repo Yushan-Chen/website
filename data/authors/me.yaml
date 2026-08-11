@@ -41,16 +41,19 @@ interests:
 education:
   - degree: PhD Environmental Engineering
     institution: Georgia Institute of Technology
+    icon: media/school-logos/georgia-tech.png
     start: 2022-09-01
     summary: |
       Expected June 2026. Advisor: Prof. Yongsheng Chen. Machine learning–driven
       discovery of sustainable ionic liquids for CO2 capture.
   - degree: MSc Environmental Engineering
     institution: Cornell University
+    icon: media/school-logos/cornell.png
     start: 2020-12-01
     end: 2022-06-30
   - degree: BEng Environmental Engineering
     institution: Shanxi University
+    icon: media/school-logos/shanxi.png
     start: 2015-09-01
     end: 2019-06-30
 
