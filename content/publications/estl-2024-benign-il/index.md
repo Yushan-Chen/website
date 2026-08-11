@@ -23,7 +23,9 @@ publication:
   volume: 11
   pages: "1193–1199"
 
-doi: "10.1021/acs.estlett.4c00524"
+hugoblox:
+  ids:
+    doi: "10.1021/acs.estlett.4c00524"
 peer_reviewed: true
 open_access: true
 license: CC-BY-4.0

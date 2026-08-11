@@ -12,7 +12,9 @@ publication:
   volume: 130
   pages: "7424–7432"
 
-doi: "10.1021/acs.jpcb.6c02062"
+hugoblox:
+  ids:
+    doi: "10.1021/acs.jpcb.6c02062"
 peer_reviewed: true
 open_access: true
 license: CC-BY-4.0
